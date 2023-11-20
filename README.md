@@ -1,6 +1,6 @@
-# No longer maintained
-Since the main branch switched to LuaJIT, since I do not have the means to decompile it.
-Please refer to: https://bitbucket.org/TdlQ/payday-2-luajit
+# Archive (U66 - U152.1)
+Archived version of the old UnLuaC decompiled sources, starting with U66.
+For updates after U152.1, see: https://github.com/YaF3li/Payday2-LuaJIT
 
 # PAYDAY 2 Lua
 Decompiled source code of PAYDAY 2's Lua scripts
